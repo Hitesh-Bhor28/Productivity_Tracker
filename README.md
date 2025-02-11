@@ -89,10 +89,10 @@ This **Productivity Tracker Chrome Extension** is a powerful tool for users who 
 ---
 
 ## 📌 **How to Use the Extension**  
-1️. Download the build folder and extract it if necessary.
-2️. Open Google Chrome and go to:
-    **chrome://extensions/**
-3️. Enable Developer Mode (toggle switch at the top right corner).
-4️. Click “Load Unpacked” and select the build folder.
-5️. The extension will now be installed and active in your browser.
-6️. Click on the extension icon to access the popup and start blocking websites, tracking time. 🚀
+1️. Download the build folder and extract it if necessary.  
+2️. Open Google Chrome and go to:  
+    **chrome://extensions/**  
+3️. Enable Developer Mode (toggle switch at the top right corner).  
+4️. Click “Load Unpacked” and select the build folder.  
+5️. The extension will now be installed and active in your browser.  
+6️. Click on the extension icon to access the popup and start blocking websites, tracking time. 🚀  
