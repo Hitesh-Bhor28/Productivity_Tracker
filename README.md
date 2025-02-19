@@ -1,11 +1,11 @@
 # 🛠️ Productivity Tracker Chrome Extension  
 
- 🔹 COMPANY: CODTECH IT SOLUTIONS  
- 🔹 NAME: HITESH BHOR  
- 🔹 INTERN ID: CT08OFU  
- 🔹 DOMAIN: MERN STACK DEVELOPMENT  
- 🔹 DURATION: 4 WEEKS  
- 🔹 MENTOR: NEELA SANTOSH  
+ **🔹 COMPANY:** CODTECH IT SOLUTIONS  
+ **🔹 NAME:** HITESH DNYANESHWAR BHOR  
+ **🔹 INTERN ID:** CT08OFU  
+ **🔹 DOMAIN:** MERN STACK DEVELOPMENT  
+ **🔹 DURATION:** 4 WEEKS  
+ **🔹 MENTOR:** NEELA SANTOSH
 
 ---
 
@@ -96,3 +96,11 @@ This **Productivity Tracker Chrome Extension** is a powerful tool for users who 
 4️. Click “Load Unpacked” and select the build folder.  
 5️. The extension will now be installed and active in your browser.  
 6️. Click on the extension icon to access the popup and start blocking websites, tracking time. 🚀  
+
+---
+
+##📧 Contact Information
+💼 Hitesh Bhor
+📩 Email: [hiteshbhor28@gmail.com]
+🔗 GitHub: [https://github.com/Hitesh-Bhor28]
+🚀 LinkedIn: [https://www.linkedin.com/in/hitesh-bhor/]
