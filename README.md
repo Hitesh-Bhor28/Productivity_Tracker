@@ -99,7 +99,7 @@ This **Productivity Tracker Chrome Extension** is a powerful tool for users who 
 
 ---
 
-##📧 Contact Information  
+## 📧 Contact Information  
 💼 Hitesh Bhor  
 📩 Email: hiteshbhor28@gmail.com  
 🔗 GitHub: https://github.com/Hitesh-Bhor28  
